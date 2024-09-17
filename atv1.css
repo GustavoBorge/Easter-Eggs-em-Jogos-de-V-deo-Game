@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.container-cima {
+    text-align: center;
+    padding: 20px;
+}
+.container-baixo{
+    padding: 20px;
+}
+h1, h2 {
+    font-size: 2em;
+}
+h3 {
+    font-size: 1.5em;
+}
+p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+section {
+    margin-bottom: 20px;
+}
+.easter-egg, .egg {
+    margin-bottom: 20px;
+}
+.egg table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.egg table, .egg th, .egg td {
+    border: 1px solid #ddd;
+}
+.egg th, .egg td {
+    padding: 8px;
+    text-align: left;
+}
+.egg th {
+    background-color: #f4f4f4;
+}
+.container-baixo h2{
+    text-align: center;
+}
+.video{
+    margin-left: 35%;
+}
+.contact-me{
+    text-align: center;
+    margin-bottom: 75px;
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
